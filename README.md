@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/mrr1368/Phyton-basic-Algorithms-Course/raw/main/assets/A_rectangular_digital_graphic_design_banner_promot.png" alt="Python Basic Algorithms Course Banner" />
+</p>
+
 # 🧠 پروژه نهایی دوره الگوریتم با پایتون
 
 سلام! من محمدرضا هستم و این ریپازیتوری شامل پروژه نهایی‌مه که در پایان دوره آموزش الگوریتم با زبان پایتون انجام دادم 😊
