@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mrr1368/Phyton-basic-Algorithms-Course/raw/main/assets/A_rectangular_digital_graphic_design_banner_promot.png" alt="Python Basic Algorithms Course Banner" />
+  <img src="https://github.com/mrr1368/Phyton-basic-Algorithms-Course/raw/main/assets/S 01.png" alt="Python Basic Algorithms Course Banner" />
 </p>
 
 # 🦍 دوره پایه آموزش الگوریتم با پایتون - جلسه 01
