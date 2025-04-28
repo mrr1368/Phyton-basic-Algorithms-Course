@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mrr1368/Phyton-basic-Algorithms-Course/raw/main/assets/ChatGPT Image Apr 28, 2025, 02_52_22 AM.png" alt="Python Basic Algorithms Course Banner" />
+  <img src="https://github.com/mrr1368/Phyton-basic-Algorithms-Course/raw/main/assets/Final Project.png" alt="Python Basic Algorithms Course Banner" />
 </p>
 
 # 🧠 پروژه نهایی دوره الگوریتم با پایتون
