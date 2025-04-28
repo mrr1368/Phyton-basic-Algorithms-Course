@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/mrr1368/Phyton-basic-Algorithms-Course/raw/main/assets/S 06.png" alt="Python Basic Algorithms Course Banner" />
+</p>
+
 # 🌟 دوره آموزش الگوریتم با پایتون - جلسه ششم
 
 خوش آمدید به ششمین جلسه از دوره **آموزش الگوریتم با پایتون**!
